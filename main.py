@@ -1,3 +1,4 @@
+import random
 from discord_webhook import DiscordWebhook
 import time
 
